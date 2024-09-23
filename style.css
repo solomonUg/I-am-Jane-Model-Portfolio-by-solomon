@@ -343,6 +343,21 @@ footer p {
       right: 15px;  
     }
 
+
+
+    .twitter:hover {
+      transform: translateX(20px);
+    }
+    
+    .facebook:hover {
+      transform: translateX(20px);
+    }
+    
+    .instagram:hover {
+      transform: translateX(20px);
+    }
+
+
     .aboutMe-container {
       flex-direction: column;
       width: 100%;
@@ -388,17 +403,6 @@ footer p {
         transform: translateX(110px);
     }
 
-    .twitter:hover {
-      transform: translateX(20px);
-    }
-    
-    .facebook:hover {
-      transform: translateX(20px);
-    }
-    
-    .instagram:hover {
-      transform: translateX(20px);
-    }
 
 
     .gallery .gallery-container {
@@ -408,7 +412,7 @@ footer p {
     .form-btn {
       width: 100%;
       justify-content: center;
-      /* background-color: #008000; */
+
     }
     .form-btn button {
       background-color: white;
